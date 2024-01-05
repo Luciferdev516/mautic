@@ -1,0 +1,3 @@
+<?php //Mautic%255CApiBundle%255CController%255CCommonApiController%2523getEntitiesAction
+
+return [PHP_INT_MAX, []];

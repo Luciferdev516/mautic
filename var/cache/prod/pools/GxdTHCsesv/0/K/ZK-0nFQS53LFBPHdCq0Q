@@ -1,0 +1,3 @@
+<?php //Mautic%255CApiBundle%255CController%255CoAuth2%255CAuthorizeController
+
+return [PHP_INT_MAX, []];

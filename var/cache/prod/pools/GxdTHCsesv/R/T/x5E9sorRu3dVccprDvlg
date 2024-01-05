@@ -1,0 +1,3 @@
+<?php //Mautic%255CEmailBundle%255CController%255CEmailGraphStatsController
+
+return [PHP_INT_MAX, []];
